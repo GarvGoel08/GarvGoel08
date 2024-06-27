@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **garvgoel2927@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EHzftHbDH8K2EeayCwKXdWl09FUVw3vt/view?usp=sharing](https://drive.google.com/file/d/1EHzftHbDH8K2EeayCwKXdWl09FUVw3vt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sJYp3iSYicfcscUHtLvB5qvQUxzXeISl/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
