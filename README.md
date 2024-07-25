@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garv</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [EzInterview](https://ezinterview.vercel.app/)
+- 🔭 I’m currently working on [EzInterview](https://ezinterview.vercel.app/), [Captio](https://captio.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, NextJS**
 
